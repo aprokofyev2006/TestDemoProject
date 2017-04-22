@@ -6,6 +6,7 @@ public class AppTest {
 		//comment comment
 		System.out.println("it is work");
 		System.out.println();
+		System.out.println();
 	}
 
 }
