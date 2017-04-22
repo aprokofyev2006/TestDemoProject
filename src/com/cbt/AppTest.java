@@ -4,6 +4,7 @@ public class AppTest {
 	
 	public static void main(String[] args) {
 		//comment comment
+		System.out.println("it is work");
 	}
 
 }
